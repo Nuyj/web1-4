@@ -1,0 +1,42 @@
+
+@charset "UFT-8"
+
+
+body{
+ background-color:#fbf9cc;/*背景色変更*/
+ background-image:url();
+}
+
+h1{
+   font-size:1.75em;
+   color:#3399cc;
+   text-align:center;/*先頭文字？*/
+}
+
+
+h2{
+   font-size:1.25em;
+   color:#3399cc;
+   border:#94c8b1 1px solid; /*境界線*/
+}
+
+
+address{
+   font-size:0.75em;
+   font-weight:bold;
+}
+
+h1 span{
+  color:#d0e35b   
+}/*CSSファイル型セレクタ*/
+#lead{
+  border-top:#6fbb9a 1px dotted;
+  
+}/*idセレクタ*/
+
+p.greeting{
+  border-top:#6fbb9a 1px dotted;
+  text-align:center;
+}
+
+
