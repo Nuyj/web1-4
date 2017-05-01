@@ -25,7 +25,7 @@ p{
 
 h1 span{
   color: #d0e35b
-   font-size:2.00;
+   border-top:#6fbb9a 10px dotted; 
 }/*CSSファイル型セレクタ*/
 #lead{
   border-top:#6fbb9a 10px dotted;
