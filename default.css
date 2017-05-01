@@ -14,17 +14,13 @@ h1{
 }
 
 
-h2{
+p{
    font-size:1.25em;
    color:#3399cc;
+   font-weight:bold;
    border:#94c8b1 1px solid; /*境界線*/
 }
 
-
-address{
-   font-size:0.75em;
-   font-weight:bold;
-}
 
 h1 span{
   color:#d0e35b   
