@@ -8,14 +8,14 @@ body{
 }
 
 h1{
-   font-size:1.75em;
+   font-size:3.00em;
    color:#66ccda;
    text-align:center;
 }
 
 
 p{
-   font-size:1.25em;
+   font-size:2.50em;
    color: #3399ee;
    font-weight:bold;
    border:#94c8b1 10px dotted; /*境界線*/
