@@ -18,7 +18,7 @@ p{
    font-size:1.25em;
    color:#3399cc;
    font-weight:bold;
-   border:#94c8b1 1px solid; /*境界線*/
+   border:#94c8b1 1px dotted; /*境界線*/
 }
 
 
