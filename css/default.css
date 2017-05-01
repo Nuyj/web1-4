@@ -3,7 +3,8 @@
 
 body{
  background-color:#fbf9cc;/*背景色変更*/
- background-image:url(010.JPG);
+ background-image:url(010.JPG)
+ background-repeat:repeat-x;
 }
 
 h1{
