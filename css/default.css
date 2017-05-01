@@ -3,7 +3,7 @@
 
 body{
  background-color:#fbf9cc;/*背景色変更*/
- background-image:url(010.JPG)
+ background-image:url(010.JPG);
  background-repeat:repeat-x;
 }
 
@@ -19,7 +19,7 @@ p{
    color: #3399ee;
    font-weight:bold;
    border:#94c8b1 10px dotted; /*境界線*/
-   text-align:right;
+   text-align:center;
 }
 
 
